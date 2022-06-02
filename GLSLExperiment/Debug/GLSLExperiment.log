@@ -32,19 +32,19 @@ D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(204,
 D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(209,38): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
 D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(213,38): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
 D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(214,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(243,28): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(245,38): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(274,21): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(274,31): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(275,21): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(275,31): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(276,21): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(276,31): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(277,21): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(277,31): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(278,25): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(278,38): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(279,25): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(279,38): warning C4305: '*=': truncation from 'double' to 'GLfloat'
-D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(281,16): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(262,28): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(264,38): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(294,21): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(294,31): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(295,21): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(295,31): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(296,21): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(296,31): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(297,21): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(297,31): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(298,25): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(298,38): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(299,25): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(299,38): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\GLSLExperiment\example1.cpp(301,16): warning C4305: '+=': truncation from 'double' to 'GLfloat'
   GLSLExperiment.vcxproj -> D:\Do hoa may tinh\Quat\BaiTHso3_2_project_Cube\Debug\GLSLExperiment.exe

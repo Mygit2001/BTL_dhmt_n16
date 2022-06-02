@@ -213,6 +213,7 @@ void deQuat() {
 	ins = RotateZ(90) * Translate(-yTru - 0.5 * xTru, 0, 0);
 	MatPhang(xTru, yTru -0.2, zTru, ins);
 }
+
 void Quat() {
 	khungQuat();
 	_3CanhQuat();
@@ -231,9 +232,27 @@ void Quat3() {
 	truQuat();
 	deQuat();
 }
-
+void Quat4() {
+	khungQuat();
+	_3CanhQuat();
+	truQuat();
+	deQuat();
+}
+void Quat5() {
+	khungQuat();
+	_3CanhQuat();
+	truQuat();
+	deQuat();
+}
+void Quat6() {
+	khungQuat();
+	_3CanhQuat();
+	truQuat();
+	deQuat();
+}
 void giaDo() {
-
+	ins = RotateZ(90) * Translate(0, 0, 0);
+	MatPhang(xTru, yTru, zTru, ins);
 }
 void display( void )
 {
@@ -244,7 +263,8 @@ void display( void )
 	Quat2();
 	quayBase *= Translate(-xKhungTD * 2 - 0.2 , 0, 0);
     Quat3();
-
+	//quayBase *= Translate(0, )
+	//giaDo();
 	glutSwapBuffers();									   
 }
 
